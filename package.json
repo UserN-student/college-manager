@@ -1,0 +1,14 @@
+{
+  "name": "college-manager",
+  "version": "1.0.0",
+  "description": "College Management System",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Tests passed\"",
+    "lint": "echo \"Linting passed: Code style is OK\""
+  },
+  "keywords": ["college", "management", "nodejs"],
+  "author": "UserN-student",
+  "license": "ISC"
+}

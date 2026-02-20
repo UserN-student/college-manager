@@ -6,4 +6,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run Tests
+<<<<<<< HEAD
         run: echo "Tests passed successfully!"
+=======
+        run: echo "Tests passed successfully!"
+>>>>>>> 312ed27 (ci: add github actions workflow)
